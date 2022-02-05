@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Rich-N777
+- 👋 Hi, I’m Richard!
 - 👀 I’m interested in ... learning and building
-- 🌱 I’m currently learning ... machine learning
-- 💞️ I’m looking to collaborate on ... projects
+- 🌱 I’m currently learning ... Python programming and machine learning/artificial intelligence.
+- 💞️ I’m looking to collaborate on ... learning and projects
 - 📫 How to reach me ... https://www.linkedin.com/in/richardnoriega777
 
-<!---
-Rich-N777/Rich-N777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
